@@ -32,6 +32,7 @@ function addAllFamilyLuckyNumbers(anArray){
 }
 
 //Enter all your code here:
+person.luckyNumbers[3] = 33;
 
 
 //Do not make changes below:
