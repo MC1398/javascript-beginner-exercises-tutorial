@@ -1,4 +1,6 @@
-
+function sing() {
+    
+}
 
 //Your code above ^^^
 
